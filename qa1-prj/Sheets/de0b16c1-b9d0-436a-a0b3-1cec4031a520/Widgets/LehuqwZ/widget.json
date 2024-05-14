@@ -1,0 +1,49 @@
+{
+  "Children": [
+    "8afd7586-ca04-437b-a590-e8d7fd98a414",
+    "d01a2754-d9de-4e57-96b0-cb02dfc8e32f",
+    "96d8088c-1181-4605-a41e-9e45405e88b9",
+    "8a01bb65-0601-4f16-8711-c8c1fe59b0ca",
+    "bc61d0c5-3563-4154-82f6-fd3dad6f9a72"
+  ],
+  "Column": 0,
+  "Height": 6,
+  "Id": "LehuqwZ",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {},
+      "qDef": {
+        "qListObjectDef": {
+          "qDef": {
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": []
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": []
+        }
+      }
+    },
+    "qInfo": {
+      "qId": "LehuqwZ",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 0,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 12
+}

@@ -1,0 +1,211 @@
+{
+  "Id": "6b07378d-bcea-44bf-a510-ca9fe14a5deb",
+  "Name": "Bookmark6",
+  "Patches": [],
+  "Properties": {
+    "creationDate": "2024-03-04T08:43:04.227Z",
+    "qInfo": {
+      "qId": "6b07378d-bcea-44bf-a510-ca9fe14a5deb",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": false,
+      "title": "Bookmark6"
+    },
+    "selectionFields": "field_int, date, login",
+    "sheetId": "e1306c20-a148-4d44-ac8b-4000ab634d5e"
+  },
+  "Published": true,
+  "Selections": [
+    {
+      "Field": "date",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": true,
+          "Number": 45167.0,
+          "Text": "2023-08-29"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45168.0,
+          "Text": "2023-08-30"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45169.0,
+          "Text": "2023-08-31"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45170.0,
+          "Text": "2023-09-01"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45171.0,
+          "Text": "2023-09-02"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45172.0,
+          "Text": "2023-09-03"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45173.0,
+          "Text": "2023-09-04"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45174.0,
+          "Text": "2023-09-05"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45175.0,
+          "Text": "2023-09-06"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45176.0,
+          "Text": "2023-09-07"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45177.0,
+          "Text": "2023-09-08"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45178.0,
+          "Text": "2023-09-09"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45179.0,
+          "Text": "2023-09-10"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45180.0,
+          "Text": "2023-09-11"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45181.0,
+          "Text": "2023-09-12"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45182.0,
+          "Text": "2023-09-13"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45183.0,
+          "Text": "2023-09-14"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45184.0,
+          "Text": "2023-09-15"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45185.0,
+          "Text": "2023-09-16"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45186.0,
+          "Text": "2023-09-17"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45187.0,
+          "Text": "2023-09-18"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45188.0,
+          "Text": "2023-09-19"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45189.0,
+          "Text": "2023-09-20"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 45190.0,
+          "Text": "2023-09-21"
+        }
+      ]
+    },
+    {
+      "Field": "field_int",
+      "IsExpression": true,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "=field_int>100"
+        }
+      ]
+    },
+    {
+      "Field": "login",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user10"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user2"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user3"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user4"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user5"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user6"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user7"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user8"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user9"
+        }
+      ]
+    }
+  ],
+  "VariableItems": []
+}

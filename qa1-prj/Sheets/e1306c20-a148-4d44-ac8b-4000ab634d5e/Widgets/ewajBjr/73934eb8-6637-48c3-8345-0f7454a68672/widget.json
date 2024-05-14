@@ -1,0 +1,61 @@
+{
+  "Children": [],
+  "Column": 0,
+  "Height": 0,
+  "Id": "73934eb8-6637-48c3-8345-0f7454a68672",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qInfo": {
+      "qId": "73934eb8-6637-48c3-8345-0f7454a68672",
+      "qType": "listbox"
+    },
+    "qListObjectDef": {
+      "disableNavMenu": false,
+      "footnote": "",
+      "qDef": {
+        "autoSort": true,
+        "cId": "UJqPehp",
+        "qActiveField": 0,
+        "qFieldDefs": [
+          "login"
+        ],
+        "qFieldLabels": [
+          ""
+        ],
+        "qGrouping": "N",
+        "qNumberPresentations": [],
+        "qSortCriterias": [
+          {
+            "qExpression": {},
+            "qSortByAscii": 1,
+            "qSortByLoadOrder": 1,
+            "qSortByNumeric": 1,
+            "qSortByState": 1
+          }
+        ]
+      },
+      "qExpressions": [],
+      "qFrequencyMode": "N",
+      "qInitialDataFetch": [],
+      "qOtherTotalSpec": {},
+      "qShowAlternatives": true,
+      "showDetails": true,
+      "showDetailsExpression": false,
+      "showTitles": true,
+      "subtitle": "",
+      "title": ""
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": true,
+    "subtitle": "",
+    "title": "login",
+    "visualization": "listbox"
+  },
+  "Row": 0,
+  "Title": "login",
+  "Type": "listbox",
+  "Width": 0
+}

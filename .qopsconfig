@@ -1,0 +1,12 @@
+{
+  "EOLStyle": 0,
+  "Filter": "*",
+  "ExtensionsFilter": "*",
+  "Ignore": "",
+  "Profile": "default",
+  "Reduce": "",
+  "UseBuildDiffs": false,
+  "IncludeBookmarks": false,
+  "AllBookmarks": false,
+  "SkipExtensions": false
+}

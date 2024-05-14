@@ -1,0 +1,39 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "ee37ce3a-9d05-4edf-aac7-6b5ea366188a",
+    "Published": true,
+    "Title": "My new sheet (1)"
+  },
+  "SheetProperties": {
+    "Id": "ee37ce3a-9d05-4edf-aac7-6b5ea366188a",
+    "Properties": {
+      "columns": 24,
+      "customRowBase": 12,
+      "gridMode": "edit",
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      },
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "ee37ce3a-9d05-4edf-aac7-6b5ea366188a",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "My new sheet (1)"
+      },
+      "rank": 1,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      }
+    }
+  },
+  "Widgets": []
+}

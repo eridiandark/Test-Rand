@@ -1,0 +1,34 @@
+{
+  "Sheet": {
+    "Description": "",
+    "Id": "e1306c20-a148-4d44-ac8b-4000ab634d5e",
+    "Published": true,
+    "Title": "My new sheet"
+  },
+  "SheetProperties": {
+    "Id": "e1306c20-a148-4d44-ac8b-4000ab634d5e",
+    "Properties": {
+      "columns": 24,
+      "gridMode": "edit",
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "qInfo": {
+        "qId": "e1306c20-a148-4d44-ac8b-4000ab634d5e",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "description": "",
+        "title": "My new sheet"
+      },
+      "rank": null,
+      "rows": 12,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      }
+    }
+  },
+  "Widgets": []
+}

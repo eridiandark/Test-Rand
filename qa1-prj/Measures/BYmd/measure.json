@@ -1,0 +1,27 @@
+{
+  "Id": "BYmd",
+  "Properties": {
+    "qInfo": {
+      "qId": "BYmd",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "coloring": {},
+      "qActiveExpression": 0,
+      "qDef": "concat({1<[Attribute 2 value(s)]=$::[Attribute 2 value(s)]>}distinct [Attribute 2 value(s)],',')",
+      "qExpressions": [],
+      "qGrouping": "N",
+      "qLabel": "measure",
+      "qNumFormat": {
+        "qnDec": 10,
+        "qType": "U",
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "description": "",
+      "tags": [],
+      "title": "measure"
+    }
+  }
+}

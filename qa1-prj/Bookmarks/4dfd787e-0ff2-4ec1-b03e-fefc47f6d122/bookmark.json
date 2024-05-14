@@ -1,0 +1,114 @@
+{
+  "Id": "4dfd787e-0ff2-4ec1-b03e-fefc47f6d122",
+  "Name": "Bookmark5",
+  "Patches": [
+    {
+      "qChildren": [
+        {
+          "qChildren": [],
+          "qInfo": {
+            "qId": "xLTpeC",
+            "qType": "table"
+          },
+          "qPatches": [
+            {
+              "qOp": "replace",
+              "qPath": "/qHyperCubeDef/qDimensions",
+              "qValue": "[{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"field_int\"],\"qFieldLabels\":[\"\"],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qActiveField\":0,\"autoSort\":true,\"cId\":\"fprpk\",\"othersLabel\":\"Others\",\"representation\":{\"imageLabel\":\"\",\"imagePosition\":\"topCenter\",\"imageSetting\":\"label\",\"imageSize\":\"fitHeight\",\"imageUrl\":\"\",\"linkUrl\":\"\",\"type\":\"text\",\"urlLabel\":\"\",\"urlPosition\":\"dimension\"},\"textAlign\":{\"align\":\"left\",\"auto\":true}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GE_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{\"qv\":\"Others\"},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}}},{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"field_float\"],\"qFieldLabels\":[\"\"],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qActiveField\":0,\"autoSort\":true,\"cId\":\"gxefNN\",\"othersLabel\":\"Others\",\"representation\":{\"imageLabel\":\"\",\"imagePosition\":\"topCenter\",\"imageSetting\":\"label\",\"imageSize\":\"fitHeight\",\"imageUrl\":\"\",\"linkUrl\":\"\",\"type\":\"text\",\"urlLabel\":\"\",\"urlPosition\":\"dimension\"},\"textAlign\":{\"align\":\"left\",\"auto\":true}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GE_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{\"qv\":\"Others\"},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}}},{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"date\"],\"qFieldLabels\":[\"\"],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qActiveField\":0,\"autoSort\":true,\"cId\":\"cBDumx\",\"othersLabel\":\"Others\",\"representation\":{\"imageLabel\":\"\",\"imagePosition\":\"topCenter\",\"imageSetting\":\"label\",\"imageSize\":\"fitHeight\",\"imageUrl\":\"\",\"linkUrl\":\"\",\"type\":\"text\",\"urlLabel\":\"\",\"urlPosition\":\"dimension\"},\"textAlign\":{\"align\":\"left\",\"auto\":true}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GE_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{\"qv\":\"Others\"},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}}},{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"login\"],\"qFieldLabels\":[\"\"],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qReverseSort\":true,\"qActiveField\":0,\"autoSort\":true,\"cId\":\"aDPev\",\"othersLabel\":\"Others\",\"representation\":{\"imageLabel\":\"\",\"imagePosition\":\"topCenter\",\"imageSetting\":\"label\",\"imageSize\":\"fitHeight\",\"imageUrl\":\"\",\"linkUrl\":\"\",\"type\":\"text\",\"urlLabel\":\"\",\"urlPosition\":\"dimension\"},\"textAlign\":{\"align\":\"left\",\"auto\":true}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GE_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{\"qv\":\"Others\"},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}}},{\"qDef\":{\"qGrouping\":\"N\",\"qFieldDefs\":[\"text\"],\"qFieldLabels\":[\"\"],\"qSortCriterias\":[{\"qSortByNumeric\":1,\"qSortByAscii\":1,\"qSortByLoadOrder\":1,\"qExpression\":{}}],\"qNumberPresentations\":[],\"qActiveField\":0,\"autoSort\":true,\"cId\":\"MEPnzG\",\"othersLabel\":\"Others\",\"representation\":{\"imageLabel\":\"\",\"imagePosition\":\"topCenter\",\"imageSetting\":\"label\",\"imageSize\":\"fitHeight\",\"imageUrl\":\"\",\"linkUrl\":\"\",\"type\":\"text\",\"urlLabel\":\"\",\"urlPosition\":\"dimension\"},\"textAlign\":{\"align\":\"left\",\"auto\":true}},\"qOtherTotalSpec\":{\"qOtherMode\":\"OTHER_OFF\",\"qOtherCounted\":{\"qv\":\"10\"},\"qOtherLimit\":{\"qv\":\"0\"},\"qOtherLimitMode\":\"OTHER_GE_LIMIT\",\"qForceBadValueKeeping\":true,\"qApplyEvenWhenPossiblyWrongResult\":true,\"qOtherSortMode\":\"OTHER_SORT_DESCENDING\",\"qTotalMode\":\"TOTAL_OFF\",\"qReferencedExpression\":{}},\"qOtherLabel\":{\"qv\":\"Others\"},\"qTotalLabel\":{},\"qCalcCond\":{},\"qAttributeExpressions\":[],\"qAttributeDimensions\":[],\"qCalcCondition\":{\"qCond\":{},\"qMsg\":{}}}]"
+            },
+            {
+              "qOp": "replace",
+              "qPath": "/qHyperCubeDef/qInterColumnSortOrder",
+              "qValue": "[3,0,1,2,4]"
+            }
+          ]
+        }
+      ],
+      "qInfo": {
+        "qId": "e1306c20-a148-4d44-ac8b-4000ab634d5e",
+        "qType": "sheet"
+      },
+      "qPatches": []
+    }
+  ],
+  "Properties": {
+    "creationDate": "2024-03-04T08:42:43.52Z",
+    "qInfo": {
+      "qId": "4dfd787e-0ff2-4ec1-b03e-fefc47f6d122",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": true,
+      "title": "Bookmark5"
+    },
+    "selectionFields": "field_int, login",
+    "sheetId": "e1306c20-a148-4d44-ac8b-4000ab634d5e"
+  },
+  "Published": true,
+  "Selections": [
+    {
+      "Field": "field_int",
+      "IsExpression": true,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "=field_int>100"
+        }
+      ]
+    },
+    {
+      "Field": "login",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user10"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user2"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user3"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user4"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user5"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user6"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user7"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user8"
+        },
+        {
+          "IsNumeric": false,
+          "Number": "NaN",
+          "Text": "user9"
+        }
+      ]
+    }
+  ],
+  "VariableItems": []
+}

@@ -1,0 +1,12 @@
+{
+  "Description": "test1",
+  "Id": "11e4103e-7bdc-45dc-bf08-5d4e8b920764",
+  "Name": "qa1",
+  "Owner": {
+    "name": "Test",
+    "userDirectory": "DVSTS"
+  },
+  "Properties": [],
+  "Published": true,
+  "Stream": "test"
+}

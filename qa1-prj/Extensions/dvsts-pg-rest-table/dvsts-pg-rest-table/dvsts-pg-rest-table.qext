@@ -1,0 +1,7 @@
+{
+    "name": "dvsts-pg-rest-table",
+    "description": "pg rest table extension",
+    "type": "visualization",
+    "version": "1.0",
+    "author": "DVSTS"
+}

@@ -1,0 +1,45 @@
+{
+  "Children": [
+    "dd232781-05eb-48f0-bd11-69992251017b"
+  ],
+  "Column": 6,
+  "Height": 6,
+  "Id": "yRmpKFp",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qChildListDef": {
+      "qData": {},
+      "qDef": {
+        "qListObjectDef": {
+          "qDef": {
+            "qActiveField": 0,
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": []
+          },
+          "qExpressions": [],
+          "qFrequencyMode": "N",
+          "qInitialDataFetch": []
+        }
+      }
+    },
+    "qInfo": {
+      "qId": "yRmpKFp",
+      "qType": "filterpane"
+    },
+    "qMetaDef": {},
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": false,
+    "subtitle": "",
+    "title": "",
+    "visualization": "filterpane"
+  },
+  "Row": 6,
+  "Title": "",
+  "Type": "filterpane",
+  "Width": 4
+}

@@ -1,0 +1,89 @@
+{
+  "Id": "b6ceea59-821a-40d9-a7cb-a5a073b63835",
+  "Name": "Bookmark2",
+  "Patches": [],
+  "Properties": {
+    "creationDate": "2024-03-04T08:37:45.107Z",
+    "qInfo": {
+      "qId": "b6ceea59-821a-40d9-a7cb-a5a073b63835",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": false,
+      "title": "Bookmark2"
+    },
+    "selectionFields": "field_int",
+    "sheetId": "e1306c20-a148-4d44-ac8b-4000ab634d5e"
+  },
+  "Published": true,
+  "Selections": [
+    {
+      "Field": "field_int",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": true,
+          "Number": 3.0,
+          "Text": "3"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 5.0,
+          "Text": "5"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 6.0,
+          "Text": "6"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 7.0,
+          "Text": "7"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 10.0,
+          "Text": "10"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 11.0,
+          "Text": "11"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 12.0,
+          "Text": "12"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 16.0,
+          "Text": "16"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 17.0,
+          "Text": "17"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 18.0,
+          "Text": "18"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 19.0,
+          "Text": "19"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 20.0,
+          "Text": "20"
+        }
+      ]
+    }
+  ],
+  "VariableItems": []
+}

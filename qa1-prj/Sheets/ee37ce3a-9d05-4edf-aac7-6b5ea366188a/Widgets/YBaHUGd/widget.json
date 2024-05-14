@@ -1,0 +1,245 @@
+{
+  "Children": [],
+  "Column": 12,
+  "Height": 6,
+  "Id": "YBaHUGd",
+  "Properties": {
+    "disableNavMenu": false,
+    "footnote": "",
+    "qHyperCubeDef": {
+      "qCalcCond": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qDimensions": [
+        {
+          "qAttributeDimensions": [],
+          "qAttributeExpressions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qDef": {
+            "qActiveField": 0,
+            "qFieldDefs": [
+              "text"
+            ],
+            "qFieldLabels": [],
+            "qGrouping": "N",
+            "qNumberPresentations": [],
+            "qSortCriterias": [
+              {
+                "qExpression": {},
+                "qSortByLoadOrder": 1
+              }
+            ]
+          },
+          "qOtherLabel": {},
+          "qOtherTotalSpec": {
+            "qApplyEvenWhenPossiblyWrongResult": true,
+            "qForceBadValueKeeping": true,
+            "qOtherCounted": {},
+            "qOtherLimit": {},
+            "qOtherLimitMode": "OTHER_GT_LIMIT",
+            "qOtherMode": "OTHER_OFF",
+            "qOtherSortMode": "OTHER_SORT_DESCENDING",
+            "qReferencedExpression": {},
+            "qTotalMode": "TOTAL_OFF"
+          },
+          "qTotalLabel": {}
+        }
+      ],
+      "qDynamicScript": [],
+      "qExpansionState": [],
+      "qInitialDataFetch": [],
+      "qInterColumnSortOrder": [
+        0
+      ],
+      "qMaxStackedCells": 5000,
+      "qMeasures": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qPseudoDimPos": -1,
+      "qReductionMode": "N",
+      "qSuppressMissing": true,
+      "qTitle": {}
+    },
+    "qInfo": {
+      "qId": "YBaHUGd",
+      "qType": "auto-chart"
+    },
+    "qMetaDef": {},
+    "qUndoExclude": {
+      "generated": {
+        "disableNavMenu": false,
+        "footnote": "",
+        "isRecommended": true,
+        "multiline": {
+          "wrapTextInCells": true,
+          "wrapTextInHeaders": true
+        },
+        "qHyperCubeDef": {
+          "columnOrder": [
+            0
+          ],
+          "columnWidths": [
+            -1
+          ],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [
+            0
+          ],
+          "qDimensions": [
+            {
+              "othersLabel": "Другие",
+              "qAttributeDimensions": [],
+              "qAttributeExpressions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qDef": {
+                "autoSort": true,
+                "cId": "AVgsKm",
+                "othersLabel": "Другие",
+                "qActiveField": 0,
+                "qFieldDefs": [
+                  "text"
+                ],
+                "qFieldLabels": [],
+                "qGrouping": "N",
+                "qNumberPresentations": [],
+                "qSortCriterias": [
+                  {
+                    "qExpression": {},
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qSortByNumeric": 1
+                  }
+                ],
+                "representation": {
+                  "imageLabel": "",
+                  "imagePosition": "topCenter",
+                  "imageSetting": "label",
+                  "imageSize": "fitHeight",
+                  "imageUrl": "",
+                  "linkUrl": "",
+                  "type": "text",
+                  "urlLabel": "",
+                  "urlPosition": "dimension"
+                },
+                "textAlign": {
+                  "align": "left",
+                  "auto": true
+                }
+              },
+              "qOtherLabel": {},
+              "qOtherTotalSpec": {
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qForceBadValueKeeping": true,
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GT_LIMIT",
+                "qOtherMode": "OTHER_OFF",
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qReferencedExpression": {},
+                "qTotalMode": "TOTAL_OFF"
+              },
+              "qTotalLabel": {}
+            }
+          ],
+          "qDynamicScript": [],
+          "qExpansionState": [],
+          "qInitialDataFetch": [
+            {
+              "qHeight": 0,
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 0
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0
+          ],
+          "qMaxStackedCells": 5000,
+          "qMeasures": [],
+          "qMode": "S",
+          "qNoOfLeftDims": -1,
+          "qPseudoDimPos": -1,
+          "qReductionMode": "N",
+          "qSuppressMissing": true,
+          "qTitle": {}
+        },
+        "qInfo": {
+          "qType": "table"
+        },
+        "qLayoutExclude": {
+          "disabled": {},
+          "quarantine": {
+            "conditionalShowHide": {
+              "dimensions": {}
+            }
+          }
+        },
+        "qStateName": "",
+        "recommendation": {
+          "analysis": {
+            "analysis": "list",
+            "dims": [
+              {
+                "cType": "eField",
+                "expr": "text",
+                "field": "text"
+              }
+            ],
+            "msrs": []
+          }
+        },
+        "script": "",
+        "scrolling": {
+          "horizontal": true,
+          "keepFirstColumnInView": false,
+          "keepFirstColumnInViewTouch": false
+        },
+        "search": {
+          "sorting": "auto"
+        },
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showTitles": true,
+        "subtitle": "",
+        "title": "",
+        "totals": {
+          "label": "Итоги",
+          "position": "noTotals",
+          "show": true
+        },
+        "visualization": "table"
+      },
+      "hashCode": -748211201
+    },
+    "script": "",
+    "showDetails": true,
+    "showDetailsExpression": false,
+    "showTitles": true,
+    "subtitle": "",
+    "title": "",
+    "visualization": "auto-chart"
+  },
+  "Row": 0,
+  "Title": "",
+  "Type": "auto-chart",
+  "Width": 12
+}

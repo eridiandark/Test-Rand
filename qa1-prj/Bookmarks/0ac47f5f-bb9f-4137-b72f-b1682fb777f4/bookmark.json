@@ -1,0 +1,22 @@
+{
+  "Id": "0ac47f5f-bb9f-4137-b72f-b1682fb777f4",
+  "Name": "Bookmark1",
+  "Patches": [],
+  "Properties": {
+    "creationDate": "2024-03-04T08:37:15.8Z",
+    "qInfo": {
+      "qId": "0ac47f5f-bb9f-4137-b72f-b1682fb777f4",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": false,
+      "title": "Bookmark1"
+    },
+    "selectionFields": "",
+    "sheetId": "e1306c20-a148-4d44-ac8b-4000ab634d5e"
+  },
+  "Published": true,
+  "Selections": [],
+  "VariableItems": []
+}

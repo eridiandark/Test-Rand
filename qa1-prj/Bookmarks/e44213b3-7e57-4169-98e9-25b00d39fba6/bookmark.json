@@ -1,0 +1,100 @@
+{
+  "Id": "e44213b3-7e57-4169-98e9-25b00d39fba6",
+  "Name": "Bookmark8",
+  "Patches": [],
+  "Properties": {
+    "creationDate": "2024-03-04T08:45:22.261Z",
+    "qInfo": {
+      "qId": "e44213b3-7e57-4169-98e9-25b00d39fba6",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "description": "",
+      "isExtended": false,
+      "title": "Bookmark8"
+    },
+    "selectionFields": "field_int, field_float",
+    "sheetId": "e1306c20-a148-4d44-ac8b-4000ab634d5e"
+  },
+  "Published": true,
+  "Selections": [
+    {
+      "Field": "field_float",
+      "IsExpression": true,
+      "Selected": [
+        {
+          "IsNumeric": false,
+          "Number": 0.0,
+          "Text": "=[field_float]>1"
+        }
+      ]
+    },
+    {
+      "Field": "field_int",
+      "IsExpression": false,
+      "Selected": [
+        {
+          "IsNumeric": true,
+          "Number": 3.0,
+          "Text": "3"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9990.0,
+          "Text": "9990"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9991.0,
+          "Text": "9991"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9992.0,
+          "Text": "9992"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9993.0,
+          "Text": "9993"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9994.0,
+          "Text": "9994"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9995.0,
+          "Text": "9995"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9996.0,
+          "Text": "9996"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9997.0,
+          "Text": "9997"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9998.0,
+          "Text": "9998"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 9999.0,
+          "Text": "9999"
+        },
+        {
+          "IsNumeric": true,
+          "Number": 10000.0,
+          "Text": "10000"
+        }
+      ]
+    }
+  ],
+  "VariableItems": []
+}
