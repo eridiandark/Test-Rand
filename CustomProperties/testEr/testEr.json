@@ -1,0 +1,18 @@
+{
+  "choiceValues": [
+    "+123",
+    "-09j",
+    "sfsfg",
+    "http://rds2.dvsts.com:8080"
+  ],
+  "description": "",
+  "name": "testEr",
+  "objectTypes": [
+    "App",
+    "DataConnection",
+    "Extension",
+    "ReloadTask"
+  ],
+  "privileges": null,
+  "valueType": "Text"
+}

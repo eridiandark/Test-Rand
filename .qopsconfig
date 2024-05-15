@@ -1,10 +1,12 @@
 {
   "EOLStyle": 0,
-  "Filter": "*",
+  "Filter": "Name=*,Id=1fbd2a88-a4bc-4abc-9b69-af84b50112f9,Owner=*,Stream=*;Name=barsPlus;*;name=NewTest123;name=NewTest123;*;name=testEr;testEr;*;name=Alien;Alien;name=Alien;name=Alien",
   "ExtensionsFilter": "*",
   "Ignore": "",
+  "Placeholders": null,
   "Profile": "default",
   "Reduce": "",
+  "AppSubfolders": null,
   "UseBuildDiffs": false,
   "IncludeBookmarks": false,
   "AllBookmarks": false,

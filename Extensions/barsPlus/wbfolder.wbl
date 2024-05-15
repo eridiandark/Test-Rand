@@ -1,0 +1,15 @@
+barsPlus.css;
+barsPlus.js;
+barsPlus.png;
+barsPlus.qext;
+barsPlus-directive.js;
+barsPlus-initprops.js;
+barsPlus-props.js;
+barsPlus-template.html;
+barsPlus-test.html;
+ldw-barsPlus.js;
+LICENSE.md;
+README.md;
+lib\angular.js;
+lib\d3.v3.js;
+lib\jquery.js;
